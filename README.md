@@ -5,4 +5,4 @@
 ### **Here, a completely new hosting panel is created with Angular!**
 More information will follow soon...
 
-###### © 2021 PanelBox Service
+###### © 2022 PanelBox Service
